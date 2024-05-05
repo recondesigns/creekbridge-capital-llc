@@ -2,6 +2,14 @@
   "name": "creekbridge-capital-llc",
   "version": "0.1.0",
   "private": true,
+  "author": "Michael Stedman",
+  "contributors": [
+    {
+      "name": "Michael Stedman",
+      "url": "https://github.com/recondesigns"
+    }
+  ],
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
